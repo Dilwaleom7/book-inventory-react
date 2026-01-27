@@ -1,0 +1,6 @@
+
+body { font-family: Arial; margin: 0; padding: 20px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #ccc; padding: 8px; }
+.container { max-height: 80vh; overflow-y: scroll; }
+input { margin: 4px; }

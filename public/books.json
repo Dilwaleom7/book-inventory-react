@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "React Basics",
+    "author": "Dan Abramov"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Guide",
+    "author": "MDN"
+  }
+]
